@@ -11,9 +11,9 @@
 
 1) Przeglądarka: https://colab.google/
 2) Open Colab
-3) Otwórz notatkin/Github
+3) Otwórz notatki używjąc opcji otwarcia w Githubie
 4) Wklej https://github.com/RemigiuszDurka/fascynuje/ i kliknij ikonkę szukania
-5) Wybierz dany plik i tam można uruchamiać komendy pythona lub modyfikować zawartość tekstu
+5) Wybierz dany plik i po otworzeniu można w nim uruchamiać komendy pythona lub modyfikować zawartość tekstu.
 
 
 
